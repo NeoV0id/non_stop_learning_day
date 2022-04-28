@@ -1,0 +1,16 @@
+Prologue:
+You wake up in your modest house, in the slums of the Empire Titanium
+and get prepared to go to work.
+Although this  Empire is great and well-known for its millitary forces,
+the poverty is a major problem here. You were one of the unlucky.
+
+I always wanted to be rich.                    [Charm +5, Sloth +5]
+I want to be recognize and somehow gain honor. [Pride +5, Ambition +5]
+I just wish life wasn't so hard.               [Honor +5, Devotion +5]
+
+As you arrive at the tavern, you hear your boss shouting at someone. It
+seems like he's not in a good mood today too. You sigh. You begin your work
+and bring the boxes of today's harvest in the kitchen of the tavern. There,
+you meet Linda, one of the waitress who works with you.
+
+"Hey, [Player.name], how are you today ?"
